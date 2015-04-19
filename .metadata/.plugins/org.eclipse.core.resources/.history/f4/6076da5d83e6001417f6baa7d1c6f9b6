@@ -1,0 +1,10 @@
+package rastreadorv2;
+
+import java.io.IOException;
+
+public class PruebaServidor {
+	public static void main(String[]args) throws IOException{
+		Servidor s1 = new Servidor();
+		System.out.println(s1.crearDireccionWeb());
+	}
+}

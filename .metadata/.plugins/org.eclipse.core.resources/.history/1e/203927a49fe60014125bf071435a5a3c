@@ -1,0 +1,18 @@
+package rastreadorv2;
+
+import java.io.IOException;
+
+public class PruebaServidor {
+	
+	private static final int TAMHOST=3;
+	
+	public static void main(String[]args) throws IOException{
+		Servidor s1 = new Servidor();
+		s1.crearDireccionWeb(TAMHOST);
+		s1.existePagina();
+		s1.mostrarExiste();
+//		s1.mostrarTodasPagina();
+//		
+//		s1.getHTML();
+	}
+}

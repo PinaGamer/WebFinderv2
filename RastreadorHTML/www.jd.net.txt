@@ -1,0 +1,35 @@
+<HTML>
+<HEAD>
+<TITLE>Welcome to Your Website site
+</TITLE>
+</HEAD>
+<BODY>
+<BR>
+<BR><CENTER>
+<CENTER><IMG alt="Coming Soon!" src="cs.gif">
+<BR><BR>
+<FONT face=arial size=2>Our website is still under development, please check back soon!
+</FONT>
+</CENTER>
+<BR>
+<BR>
+<CENTER>
+<BR><BR>
+<FONT face=arial size=2>This site is not for sale unless you want to spend some serious money ($1 million++ US)
+</FONT>
+<BR><BR><BR><BR>
+<FONT face=This is Comic Sans MS size=5 color="red">Don't TEXT AND DRIVE!!!!!
+</FONT>
+<BR><BR>
+<br><br><br><br>
+<A HREF="http://www.weather.com/outlook/homeandgarden/mosquito/forecast/47714?lswe=47714&Search.y=11&Search.x=14&lswa=MosquitoForecast"><b>Mosquito Forecast!!!<br>
+<BR><BR>
+<a href="http://www.reliablecounter.com" target="_blank"><img src="http://www.reliablecounter.com/sample.php?page=www.jd.net&digit=style/scoreboards/5/&reloads=0" alt="Site Counter" border="0"></a><script type="text/javascript" src="http://www.reliablecounter.com/counter.js"></script>
+<BR>
+<FONT face=arial size=3>
+<A HREF="http://www.ExtremelyUnprofessionalWebDesigns.com">Website built by: Extremely Unprofessional Web Designs, Copyright © 2011</A><br>
+<BR>
+</CENTER>
+
+</BODY>
+</HTML>

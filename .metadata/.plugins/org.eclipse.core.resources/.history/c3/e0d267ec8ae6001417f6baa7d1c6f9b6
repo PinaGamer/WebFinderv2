@@ -1,0 +1,106 @@
+package rastreadorv2;
+
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
+import java.util.ArrayList;
+
+public class Servidor {
+	
+	
+	String [] dominio  = {".com",".info",".net",".es",".biz",".us",".tv",".org",".gov"};
+	String [] pagina = new String [dominio.length];
+	boolean [] existe = new boolean [dominio.length];
+	
+	/**
+	 * Método que crea aleatoriamente nombres de páginas web
+	 * @throws IOException
+	 */
+	public void crearDireccionWeb(int TAMHOST) throws IOException{
+			
+		String comienzo = "http://www.";
+		String host = "";
+			
+		char letra;
+		int i,alfabeto;
+			
+		//Vamos a crear una página con 2 caracteres
+		for(i=0;i<TAMHOST;i++){
+			//Elige un numero entre 97 y 122 (letras minusculas)(ver tabla ASCII)
+			double a = Math.random()*26+97;
+			alfabeto = (int) a;
+			letra = (char) alfabeto;
+			host = host+letra;
+		}
+		
+		String [] web = new String [8];
+		
+		for(i=0;i<dominio.length;i++)
+			pagina [i] = comienzo + host + dominio[i];
+		
+		}
+	
+	
+	/**
+	 * Método que muestra las paginas web generadas aleatoriamente de un
+	 * nombre de servidor (independientemente de si existen o no)
+	 */
+	public void mostrarTodasPagina() {
+		
+		int i; 
+		for(i=0;i<pagina.length;i++)
+			System.out.println(pagina[i]);
+	}
+	
+	/**
+	 * Método que comprueba, realizando una petición, si la pagina
+	 * web existe o no.
+	 * @throws IOException
+	 */
+	public void existePagina() throws IOException{
+		
+		int i;
+		for(i=0;i<pagina.length;i++){
+			
+			URL url = new URL(pagina[i]);
+		    System.out.println("\nEstableciendo conexion con "+ pagina[i] + " ...");
+		    URLConnection uc = url.openConnection();
+		    
+		    if(uc.getDate() == 0){
+		    	existe[i] = false;
+		    	System.out.println("No existe la pagina " + pagina[i]);
+		    }
+		    	
+		    else {
+		    	existe[i] = true;
+		    	System.out.println("Existe la pagina " + pagina[i]);
+		    }
+	}
+	}
+	/**
+	 * Método que muestra por pantalla todas las paginas 
+	 * con el mismo nombre de servidor que SÍ existen
+	 */
+	public void mostrarExiste(){
+		
+		int i;
+		System.out.println("\nMostrando paginas existentes: ");
+		for(i=0;i<pagina.length;i++)
+			if(existe[i] == true)
+				System.out.println(pagina[i]);	
+	}
+	
+	/**
+	 * Método que muestra por pantalla todas las paginas 
+	 * con el mismo nombre de servidor que NO existen
+	 */
+	public void mostrarNOExiste(){
+		
+		int i;
+		System.out.println("\nMostrando paginas NO existentes: ");
+		for(i=0;i<pagina.length;i++)
+			if(existe[i] == false)
+				System.out.println(pagina[i]);
+	}
+}

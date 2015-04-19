@@ -1,0 +1,12 @@
+package Rastreador;
+
+import java.io.IOException;
+
+
+public class PruebaLector {
+	public static void main(String[]args) throws IOException{
+		Lector n1 = new Lector();
+		n1.getContenidoHTML(n1.crearDireccionWeb());
+		//n1.crearDireccionWeb();
+	}
+}

@@ -1,0 +1,96 @@
+package Rastreador;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.net.URLConnection;
+import java.lang.Math;
+
+/**
+ * Esta clase es la encargada de generar aleatoriamente NOMBRES de páginas web
+ * y de buscar su contenido HTML para exportarlo a fichero txt.
+ * @author carlos
+ *
+ */
+public class Lector {
+
+	/**
+	 * Este método es el que ejecuta la conexión con la posible página web 
+	 * y exporta el contenido de su HTML a un fichero plano de txt.
+	 * @param pagina
+	 * @throws IOException
+	 */
+	public void getContenidoHTML(String [] pagina) throws IOException {
+		
+		//Creamos la conexion a la página a la que queremos acceder
+		int i;
+		
+		for(i=0;i<8;i++){
+			
+	    URL url = new URL(pagina[i]);
+	    System.out.println("\nEstableciendo conexion con "+ pagina[i]+ " ...");
+	    URLConnection uc = url.openConnection();
+	    if(uc.getDate() == 0)
+	    	System.out.println("No existe la direccion web");
+	    else{
+	    uc.connect();
+	    System.out.println("Leyendo codigo HTML de la pagina "+ uc.getURL()+ " ...\n");
+	    
+	    BufferedWriter f1 = new BufferedWriter(new FileWriter(pagina[i].substring(6) , true));
+	    BufferedReader in = new BufferedReader(new InputStreamReader(uc.getInputStream()));
+	    String inputLine;
+	    String contenido = "";
+		    while ((inputLine = in.readLine()) != null) {
+		        contenido += inputLine + "\n";
+		    }
+	    in.close();
+	    f1.write(contenido);
+	    //IMPORTANTE CERRAR EL FICHERO
+	    f1.close(); 
+	    System.out.println("Codigo HTML de la pagina " + pagina [i] + " copiado");
+	    }
+		}
+	}
+	
+	/**
+	 *  Este método crea de manera aleatoria nombres de dominios web de la
+	 *  misma manera asigna de manera aleatoria el final del dominio.
+	 * @throws IOException
+	 */
+	public String [] crearDireccionWeb() throws IOException{
+		
+		String comienzo = "http://www.";
+		String [] termina  = new String [8];
+		termina[0]=".com";
+		termina[1]=".info";
+		termina[2]=".net";
+		termina[3]=".es";
+		termina[4]=".biz";
+		termina[5]=".us";
+		termina[6]=".tv";
+		termina[7]=".org";
+		String host = "";
+		
+		char letra;
+		int i,alfabeto;
+		
+		//Vamos a crear una página con 5 caracteres
+		for(i=0;i<2;i++){
+			//Elige un numero entre 97 y 122 (letras minusculas)(ver tabla ASCII)
+			double a = Math.random()*26+97;
+			alfabeto = (int) a;
+			letra = (char) alfabeto;
+			host = host+letra;
+		}
+		String [] web = new String [8];
+		
+		for(i=0;i<8;i++){
+			web [i] = comienzo + host + termina[i];
+		}
+		return web;
+	}
+}
+
