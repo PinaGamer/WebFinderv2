@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title>Welcome to we.com</title>
+</head>
+<body background="/shared-images/construction/back.gif" bgcolor="#e7e7cf" text=black link=maroon vlink=maroon> 
+<center> 
+<table width=590 border=0 cellspacing=0 cellpadding=0 bgcolor=#ffffff> 
+	<tr> 
+		<td><IMG alt="This page is under construction" border=0 height=69 src="/shared-images/construction/underconstruction-mosaic.gif" width=590></td> 
+	</tr> 
+</table> 
+<br> 
+<table width="590" cellpadding="0" cellspacing="0" border="0"> 
+	<tr> 
+		<td rowspan="2"><img src="/shared-images/construction/characters.gif" width="173" height="266" alt="Welcome!" border="0"></td> 
+		<td><img src="/shared-images/construction/clear.gif" width="1" height="133" alt="" border="0"></td> 
+		<td align="center"><p><br><img src="/shared-images/construction/animated-messages-small.gif" width="390" height="88" alt="" border="0"></td> 
+	</tr> 
+	<tr> 
+		<td><img src="/shared-images/construction/clear.gif" width="1" height="133" alt="" border="0"></td> 
+		<td align="right" valign="bottom">&nbsp;</td> 
+	</tr> 
+</table> 
+<p>
+<script language="JavaScript" src="/Logging.js"></script>
+</body>
+</html>

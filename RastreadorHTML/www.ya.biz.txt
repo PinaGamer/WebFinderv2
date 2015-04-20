@@ -1,0 +1,47 @@
+<!--
+	top.location="http://www.ya.biz/?fp=unCbbxvPDBAFr8BYGdYiTElYUkD59q3Vh4sbLYbvFgIMJvHtCc1U55sk2j3UY0l2rddzQJX5ivF4gxDVv9HevA%3D%3D&prvtof=AkgJnsMkXYp0p%2B611JzCywmBhj8%2BtapnbrEjMY6q35c%3D&poru=JIYaLsqokVuNwU58vJ66Y2eYitZaWONmzfxf6n4RfOlKs6Et%2BVk%2Ft8jQOnXf9FkA&cifr=1&";
+	/*
+-->
+<html><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+				  <meta name="viewport" content="width=device-width"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www.ya.biz/?fp=unCbbxvPDBAFr8BYGdYiTElYUkD59q3Vh4sbLYbvFgIMJvHtCc1U55sk2j3UY0l2rddzQJX5ivF4gxDVv9HevA%3D%3D&prvtof=KUrfgOh3m1QzPdkfqgmbdP00ibrDOUefL5w4XTJlLb0%3D&poru=xtuMAthD%2BDp%2F09zzXjUFp%2FSUlgXMgu4i8H%2B8qlDrU4p2j37w%2FN9Fs7o3DPQq3SYX&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www.ya.biz/?fp=unCbbxvPDBAFr8BYGdYiTElYUkD59q3Vh4sbLYbvFgIMJvHtCc1U55sk2j3UY0l2rddzQJX5ivF4gxDVv9HevA%3D%3D&prvtof=Fu2%2FPAX4uSuvB93999QDDm8nMJNF2jCU1NjEipzsR%2B4%3D&poru=JUasepWU%2BM4clljNjFMc2Os%2BSbFH5WDfbdAdwPC%2FDq6hbLUt96fpOv65qIqYvOEn&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www.ya.biz/?fp=unCbbxvPDBAFr8BYGdYiTElYUkD59q3Vh4sbLYbvFgIMJvHtCc1U55sk2j3UY0l2rddzQJX5ivF4gxDVv9HevA%3D%3D&prvtof=sBeBxXhhdk4JBLCza1ZXDQTcCNjmbxn16QpX4raNNqs%3D&poru=fM2NlqRDtiRZPocECkkp6k3ykThCvENE3xr5gudEc3IvEGYc3UYVvxUms9KoUSj4&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

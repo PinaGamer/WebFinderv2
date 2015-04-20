@@ -1,0 +1,56 @@
+<html>
+<head><title>Buddhas.net - Serenity, Happiness and Salvation</title>
+<link rel="stylesheet" href="styles.css">
+<style type="text/css">
+.hdr { font-family:Verdana,Arial,Helvetica,sans-serif; font-weight:bolder; font-size:13pt; font-style:normal; color:#000000; text-decoration:none }
+</style>
+<script language="javascript" src="common.js"></script>
+</head>
+<body>
+<script language="javascript">
+writeBeginShell();
+</script>
+
+<!-- BEGIN CONTENT -->
+<p><span style="font-family:Times New Roman,Verdana;font-weight:bold;font-size:16pt;color:#0000ff"><center>The Path to</center></span>
+<span style="font-family:Times New Roman,Verdana;font-weight:bold;font-size:16pt;color:#0000ff"><center>Serenity, Happiness and Salvation</center></span>
+<p><span class="txt">
+The Buddha imparted to us the relationship between delusion and the principle of causality.
+He taught us the way of salvation, which releases us from the never-ending cycle of birth and death.
+He told us that the path to serenity, happiness and salvation comes through a true understanding of life and nature.
+Only through diligent cultivation, we can become truly liberated and enlightened.
+</span>
+<p>
+<table cellspacing="0" cellpading="0" width="100%" border="0">
+<tr><td align="right"><a href="who.html"><img src="images/P1.JPG" height="110" width="80" border="0"></img></a></td>
+<td><a href="who.html"><span class="hdr"><font color="red">WHO</font> THE BUDDHA WAS</span><br><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img></a></td>
+</td></tr>
+<tr><td><img src="images/space.gif" height="8" width="0" border="0"></img></td></tr>
+<tr><td align="right"><a href="why.html"><img src="images/Pic2.JPG" height="80" width="110" border="0"></img></a></td>
+<td><a href="why.html"><span class="hdr"><font color="red">WHY</font> WE NEED TO BECOME A BUDDHA</span><br><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img></a></td>
+</td></tr>
+<tr><td><img src="images/space.gif" height="8" width="0" border="0"></img></td></tr>
+<tr><td align="right"><a href="how.html"><img src="images/Pic3.JPG" height="100" width="95" border="0"></img></a></td>
+<td><a href="how.html"><span class="hdr"><font color="red">HOW</font> WE CAN ATTAIN BUDDHAHOOD</span><br><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img></a></td>
+</td></tr>
+<tr><td><img src="images/space.gif" height="8" width="0" border="0"></img></td></tr>
+<tr><td align="right"><a href="when.html"><img src="images/Pic4.JPG" height="72" width="100" border="0"></img></a></td>
+<td><a href="when.html"><span class="hdr"><font color="red">WHEN</font> WE SHOULD ACT</span><br><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img></a></td>
+</td></tr>
+<tr><td><img src="images/space.gif" height="8" width="0" border="0"></img></td></tr>
+<tr><td align="right"><a href="where.html"><img src="images/Pic5.JPG" height="100" width="96" border="0"></img></a></td>
+<td><a href="where.html"><span class="hdr"><font color="red">WHERE</font> WE SHOULD START FROM</span><br><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img></a></td>
+</td></tr>
+<tr><td><img src="images/space.gif" height="8" width="0" border="0"></img></td></tr>
+<tr><td align="right"><a href="what.html"><img src="images/P6.JPG" height="105" width="85" border="0"></img></a></td>
+<td><a href="what.html"><span class="hdr"><font color="red">WHAT</font> THE BUDDHA TAUGHT</span><br><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img><img src="images/star.gif" border="0"></img></a></td>
+</td></tr>
+</table>
+<!-- END CONTENT -->
+
+<script language="javascript">
+//writeEndShell("people.JPG", 220, 160, true);
+writeEndShell("people.JPG", 210, 210, true);
+</script>
+</body>
+</html>

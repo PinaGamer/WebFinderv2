@@ -2,12 +2,10 @@ package rastreadorv2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
@@ -20,7 +18,29 @@ public class Servidor {
 	
 	ArrayList<String> existpage = new ArrayList<String>();
 	ArrayList<String> nonexistpage = new ArrayList<String>();
+
 	
+	//CONSTRUCTORES
+	/**
+	 * Este constructor se utiliza para que se pueda
+	 * introducir un servidor personalizado que no sea 
+	 * generado aleatoriamente
+	 * @param servidor
+	 */
+	public Servidor(String servidor){
+		int i;
+		for(i=0;i<dominio.length;i++)
+			pagina[i]="http://www."+servidor+dominio[i];
+	}
+	
+	/**
+	 * Constructor vacio(los nombres se generan de manera random)
+	 */
+	public Servidor(){	
+	}
+	
+	
+	//METODOS
 	/**
 	 * Método que crea aleatoriamente nombres de páginas web
 	 * @throws IOException
@@ -41,8 +61,6 @@ public class Servidor {
 			letra = (char) alfabeto;
 			host = host+letra;
 		}
-		
-		String [] web = new String [8];
 		
 		for(i=0;i<dominio.length;i++)
 			pagina [i] = comienzo + host + dominio[i];
@@ -126,7 +144,7 @@ public class Servidor {
 		    System.out.println("\nLeyendo codigo HTML de la pagina "+ uc.getURL()+ " ...");
 			    
 		    //Creacion del fichero que contendra el codigo HTML
-		    BufferedWriter f1 = new BufferedWriter(new FileWriter(existpage.get(i).substring(7)+ ".txt" , true));
+		    BufferedWriter f1 = new BufferedWriter(new FileWriter(existpage.get(i).substring(7)+ ".txt"));
 		    BufferedReader in = new BufferedReader(new InputStreamReader(uc.getInputStream()));
 			    
 		    String inputLine;
@@ -176,17 +194,21 @@ public class Servidor {
 			
 			if(beginhead!=-1){
 				
-				BufferedWriter f1 = new BufferedWriter(new FileWriter("head"+existpage.get(i).substring(7)+".txt" , true));
-				System.out.println("Cabecera HEAD encontrada");
+				BufferedWriter f1 = new BufferedWriter(new FileWriter("head"+existpage.get(i).substring(7)+".txt"));
+				System.out.println("Etiqueta <head> encontrada de "+ existpage.get(i) + " :D");
+				
+				//'contenido' es igual a lo que haya dentro de las etiquetas HEAD 
 		        contenido = contenido.substring(beginhead, endhead+7);
 		        f1.write(contenido);
 		        f1.close();
 			}
 			
 			else
-				System.out.println("No tiene hoja de estilos CSS");
+				System.out.println("No tiene <head> " + existpage.get(i) + " :_(");
+			
 			b.close();
 	        }
-	}
+		}
+
 	}
 

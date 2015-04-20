@@ -1,0 +1,295 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	
+        Información sobre líneas regulares de transporte de viajeros - Líneas regulares de transporte de viajeros - Transporte terrestre - �?reas de actividad - Ministerio de Fomento
+    
+</title>
+    
+    
+    <meta name="viewport" content="width=1024,user-scalable=yes"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="TEMPLATE" content="PL_CONTENIDO_1" />
+<meta name="GUID" content="{153FF135-81EF-45C8-916F-651479172327}" />
+<meta name="ROBOTS" content="FOLLOW,INDEX" />
+<meta name="keywords" content="Informaci&#243;n sobre l&#237;neas regulares de transporte de viajeros,&#193;reas de actividad" />
+<meta name="description" content="Informaci&#243;n sobre l&#237;neas regulares de transporte de viajeros, &#193;reas de actividad, Ministerio de Fomento" /><meta name="creationdate" content="2011-09-28" /><meta name="lastmodificationdate" content="2014-08-25" /><meta name="SECCION" content="TRANSPORTES,FOMENTO" /><meta name="TIPO" content="OTRO" /><link href="/MFOMWeb/r/css/mfom.css" type="text/css" rel="stylesheet" />
+<link href="/MFOMWeb/r/fancybox/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/MFOMWeb/r/js/jquery.js"></script>
+<script type="text/javascript" src="/MFOMWeb/r/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/MFOMWeb/r/js/mfom.js"></script>
+</head>
+<body>
+
+    <div id="todo">
+        
+<form action="/MFOM.Buscador.Web/default.aspx" method="post" id="formularioBusqueda">
+    <div id="TablaCabecera" class="cabeceraAcc" >
+        <div>
+            <div>
+                <div class="cabeceraIzquierdo">
+                    <a href="/MFOM/LANG_CASTELLANO/" title="">
+                        <img src="/MFOMWeb/r/images/marca_fomento.png" alt="Gobierno de España. Ministerio de Fomento" /></a>
+                </div>
+                <div class="cabeceraCentral">
+                    <img alt="FOMENTO" src="/MFOMWeb/r/images/fomento.png" /></div>
+                <div class="cabeceraDerecha">
+                    <div id="_ctl0_Cabecera2_capaBuscador" class="capabuscador">
+                        <label for="cajabuscador" class="lblnovisible">
+                            Buscar
+                        </label>
+                        <input id="cajabuscador" name="Cabecera1:txtBuscar" type="text" class="cajabuscagral" />
+                        <input name="bot_buscar" id="bot_buscar" class="botonbuscagral" type="submit" value="Buscar" />
+                        <input name="_ctl0:Cabecera2:txtIdioma" type="hidden" id="_ctl0_Cabecera2_txtIdioma" value="es" />
+                        <input name="_ctl0:Cabecera2:txtHome" type="hidden" id="_ctl0_Cabecera2_txtHome" value="/MFOM/LANG_CASTELLANO/" />
+                        <input name="_ctl0:Cabecera2:txtAltHome" type="hidden" id="_ctl0_Cabecera2_txtAltHome" value="Inicio" />
+                    </div>
+                </div>
+            </div>
+            <div class="nav_horizontal"><ul><li id="menuH_IG"><span><a href="#menupieIG">El Ministerio</a></span></li><li id="menuH_AC" class="selected"><span><a href="#menupieAC">�?reas de actividad</a></span></li><li id="menuH_EP"><span><a href="#menupieEP">Planes estratégicos</a></span></li><li id="menuH_OP"><span><a href="#menupieOP">Sala de prensa</a></span></li><li id="menuH_DG"><span><a href="#menupieDG">Información para el ciudadano</a></span></li><li id="menuH_OC"><span><a href="#menupieOC">Órganos Colegiados</a></span></li></ul></div>
+        </div>
+    </div>
+</form>
+
+        <div id="capa_centro">
+            <form method="post">
+
+
+
+
+
+
+                <div id="contenedorPrincipalCabecerasAncho" class="contenedorPrincipalCabecerasAncho">
+                    <div class="parteizquierda">
+                    </div>
+                    <div class="partecentral">
+                        <ul class="listaEnlacesHorizontal2" id="ControlRutaNavegacion1_ruta"><li class="miga"><a href="/MFOM/LANG_CASTELLANO/" title="">Inicio</a></li><li class="miga"><span>�?reas de actividad</span></li><li class="miga"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/" title="">Transporte terrestre</a></li><li class="migaultima"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/Apli1/" title="">Líneas regulares de transporte de viajeros</a></li></ul>
+
+                        
+    
+    <h1 id="PHTitulo">Información sobre líneas regulares de transporte de viajeros</h1>
+
+                    </div>
+                    <div class="partederecha">
+                        
+                    </div>
+                    
+                </div>
+                <div id="capaContenidos">
+                    <div id="contenidos" class="contenidos">
+                        
+                        <div id="capaPrincipalContenidoAncho" class="capaPrincipalContenido contenidoEstrecho">
+                         
+    
+    <div id="Contenedorplaceholders1" class="capaGenericaContenido">
+        
+        
+        
+        <ul>
+<li><strong>El transporte p&uacute;blico interurbano de viajeros por carretera es el modo clave para garantizar una movilidad sostenible de todos los grupos de poblaci&oacute;n </strong>
+</li><li><strong>El autob&uacute;s es el modo de transporte colectivo m&aacute;s utilizado en Espa&ntilde;a </strong>
+</li><li><strong>Es el modo que genera un mayor ahorro de externalidades en el sistema de transportes </strong>
+</li><li><strong>Un autob&uacute;s sustituye entre 14 y 30 veh&iacute;culos particulares </strong>
+</li><li><strong>&ldquo;bus.es Autobuses de Espa&ntilde;a&rdquo;. Una marca de excelencia </strong>
+</li><li><strong>&ldquo;bus.es Autobuses de Espa&ntilde;a&rdquo;. La forma m&aacute;s segura y econ&oacute;mica de viajar con las mejores prestaciones</strong> </li></ul>
+    </div>
+    <div id="Contenedorplaceholders2" class="capaGenericaContenido">
+        
+        
+        
+        
+        
+        <p class="alignCenter"><img alt="bus.es Autobuses de Espa&ntilde;a" src="/NR/rdonlyres/153FF135-81EF-45C8-916F-651479172327/107257/buses_logo.gif" /></p>
+    </div>
+    <div id="Contenedorplaceholders3" class="capaGenericaContenido">
+        
+        <h2 id="PHSubtitulo2"><a title="Acceso al portal de información de líneas regulares" href="http://www.fomento.es/portalsitranbus/Mapa.jsp?idioma=ES">Acceso al portal de información de líneas regulares</a></h2>
+        
+        
+        
+        <p>Bajo esta marca, &ldquo;<strong>bus.es Autobuses de Espa&ntilde;a</strong>&rdquo;, se identifica una <strong>Red de transporte de viajeros</strong> que presta un servicio p&uacute;blico de viajeros por carretera mediante un contrato de gesti&oacute;n con un operador privado, cuya titularidad corresponde a la Administraci&oacute;n General del Estado.</p>
+<p>En Espa&ntilde;a, el transporte p&uacute;blico interurbano de viajeros por carretera de competencia estatal, es un elemento clave que garantiza una movilidad sostenible de todos los grupos de poblaci&oacute;n en todo el Estado.</p>
+<p>Ofrece unos elevados niveles de calidad y seguridad, consiguiendo un menor impacto ambiental y energ&eacute;tico que otros modos concurrentes, constituyendo una fuente de generaci&oacute;n de actividad econ&oacute;mica y de empleo de primer orden a nivel nacional.</p>
+<p>Las empresas pertenecientes a este sector del transporte interurbano de viajeros en autob&uacute;s han protagonizado un proceso de concentraci&oacute;n y modernizaci&oacute;n de sus flotas que ha redundado en una mayor eficiencia y calidad de los servicios prestados a los usuarios. En este contexto, la sociedad en su conjunto est&aacute; experimentando con conceptos nuevos de movilidad a medida que se generaliza el fen&oacute;meno low-cost y hace avances en la necesidad de definir una movilidad m&aacute;s respetuosa con el medio ambiente basada en una transici&oacute;n del veh&iacute;culo privado hacia el transporte colectivo, en un escenario econ&oacute;mico restrictivo que llevar&aacute; hacia consumos m&aacute;s asequibles y eficientes.</p>
+<p>El transporte p&uacute;blico interurbano en autob&uacute;s juega un importante papel en la movilidad de personas. Es econ&oacute;mico, sostenible, seguro, capilar y socialmente rentable, defini&eacute;ndose como el modo de transporte m&aacute;s seguro y ofreciendo las tarifas m&aacute;s reducidas en comparaci&oacute;n con los modos de transporte alternativos, brindando un alto nivel de calidad. El nivel de eficiencia del autob&uacute;s, desde el punto de vista medioambiental, econ&oacute;mico y social, es altamente destacable.</p>
+<p>Medioambientalmente, su contribuci&oacute;n a la protecci&oacute;n de la naturaleza y la salud es incuestionable, ya que reduce los impactos medioambientales, las emisiones de gases efecto invernadero y optimiza los recursos no renovables, especialmente los energ&eacute;ticos. El autob&uacute;s es el medio de transporte socialmente m&aacute;s eficiente al generar las menores externalidades negativas, alcanzando un ahorro considerable de millones de euros en t&eacute;rminos de menores costes externos, evitando la emisi&oacute;n a la atm&oacute;sfera de millones de toneladas de CO2 (las emisiones de CO2 por viajero del autob&uacute;s son seis veces menores que el autom&oacute;vil), y posibilitando un gran volumen de ahorro en consumo de combustible. Es tres veces m&aacute;s eficiente que el veh&iacute;culo privado en t&eacute;rminos de litros de combustible por viajero/kil&oacute;metro transportado.</p>
+<p>Socialmente, en cuanto a su contribuci&oacute;n a la cohesi&oacute;n socio-territorial, el transporte p&uacute;blico interurbano de viajeros en autob&uacute;s, por su flexibilidad y menores requisitos de inversi&oacute;n en infraestructuras, juega un papel esencial en la vertebraci&oacute;n territorial del Estado favoreciendo la cohesi&oacute;n entre comunidades aut&oacute;nomas, resultando especialmente relevante para aquellos sectores de la sociedad menos favorecidos, al resultar un modo m&aacute;s barato que cualquiera del resto de modos concurrentes. En Espa&ntilde;a el autob&uacute;s produce el doble de viajeros kil&oacute;metro que el ferrocarril y el triple que el avi&oacute;n.</p>
+<p>Desde el punto de vista de eficiencia econ&oacute;mica, el transporte interurbano es el modo m&aacute;s eficiente tanto en t&eacute;rminos de costes de producci&oacute;n como de requisitos en t&eacute;rminos de inversiones en infraestructuras, siendo el sector una fuente importante de actividad econ&oacute;mica y creaci&oacute;n de empleo.</p>
+<p>Al objeto de conocer en mayor profundidad los distintos segmentos que se encuadran dentro de la marca &ldquo;<strong>bus.es Autobuses de Espa&ntilde;a</strong>&rdquo;, indicar que en 1/1/2014, son 90 <strong>los contratos de gesti&oacute;n de servicio de transporte p&uacute;blico de viajeros</strong> por carretera de titularidad estatal las que ofrecen los distintos servicios a los ciudadanos del pa&iacute;s.<br /><br />Este conjunto de servicios p&uacute;blicos atienden a un total de <strong>3.622 paradas</strong> que se encuentran repartidas entre<strong> 3.172 poblaciones</strong> pertenecientes a <strong>2.222 municipios</strong> de la geograf&iacute;a nacional. La longitud total de l&iacute;neas es de <strong>77.254 kil&oacute;metros</strong>, con una longitud media de 858 Km por concesi&oacute;n.<br /><br />El n&uacute;mero total de <strong>veh&iacute;culos</strong> adscritos a dichas concesiones es de <strong>1.266</strong> de los cuales, el 32%, <strong>disponen de medidas que facilitan la accesibilidad y el transporte de las personas con discapacidad o movilidad reducida</strong>, siendo su <strong>edad media inferior a 7 a&ntilde;os</strong>. El volumen total de <strong>veh&iacute;culos-Km</strong> realizados en el a&ntilde;o 2013 fue de <strong>241 millones</strong>.<br /><br />El volumen global de viajeros transportados en el a&ntilde;o 2013 ascendi&oacute; a <strong>30.856.669</strong>. La cifra de <strong>viajeros-Km</strong> durante el citado a&ntilde;o fue de <strong>5.599 millones</strong>. El <strong>recorrido medio</strong> realizado <strong>por cada viajero</strong> fue de <strong>181 kil&oacute;metros</strong>, y la <strong>ocupaci&oacute;n</strong> media <strong>por veh&iacute;culo</strong> result&oacute; estar en torno a los <strong>23 viajeros</strong>.<br /><br /><strong>La facturaci&oacute;n total</strong> de los contratos vigentes durante el a&ntilde;o 2013, ascendi&oacute; a <strong>353.731.104 euros</strong>. La recaudaci&oacute;n viajero-km fue de 0,063176 euros y la recaudaci&oacute;n veh&iacute;culo-km 1,47 euros. La tarifa usuario media de las concesiones estatales en euros/viajero.km fue de 0,071906. <strong>La tarifa usuario media ponderada</strong> (ponderaci&oacute;n de las tarifas de cada concesi&oacute;n por el n&uacute;mero de viajeros-km realizados por cada una de ellas), fue de <strong>0,064404 euros/viajero-km</strong>.</p>
+<p>El lanzamiento de esta marca supone la revitalizaci&oacute;n y modernizaci&oacute;n de la p&aacute;gina web que opera bajo este mismo domino (<a title="bus.es" href="http://www.bus.es/">http://www.bus.es/</a>).</p>
+<p>Esta web suministra a los ciudadanos informaci&oacute;n por Internet de las L&iacute;neas Regulares de Transporte de Viajeros, permiti&eacute;ndoles consultar las rutas para ir de una poblaci&oacute;n origen a otra destino, ofreci&eacute;ndole informaci&oacute;n de las paradas del recorrido, distancias, precios, horas de salida y llegada, y tiempo del trayecto. 
+</p>
+<p>El ciudadano puede acceder a la informaci&oacute;n almacenada por la Direcci&oacute;n General de Transporte Terrestre del Ministerio de Fomento y por las correspondientes Consejer&iacute;as de Transporte de las Comunidades Aut&oacute;nomas que se adhieran.</p>
+<p>Con ello los ciudadanos pueden conocer en cualquier momento tanto las empresas que realizan un servicio entre dos ciudades, como el coste del viaje, los horarios del mismo, las paradas intermedias y el tiempo estimado del trayecto.</p>
+<p>Permite acceder a las web de las diferentes empresas operadoras de los servicios facilitando as&iacute; mayor informaci&oacute;n y la posterior adquisici&oacute;n de los billetes.</p>
+<p>Este m&oacute;dulo facilita a los usuarios del portal de informaci&oacute;n sobre L&iacute;neas Regulares de transporte de viajeros (<a title="bus.es" href="http://www.bus.es/">http://www.bus.es/</a>) la consulta de las distintas posibilidades para realizar sus viajes incluyendo los detalles geogr&aacute;ficos de la ruta.</p>
+<p>En definitiva &ldquo;<strong>bus.es Autobuses de Espa&ntilde;a</strong>&rdquo;, dentro del papel creciente que debe interpretar este sector en un contexto de fuertes restricciones presupuestarias (tanto de familias como de las propias administraciones p&uacute;blicas), y de necesidad de migrar hacia modos de transporte medioambiental y econ&oacute;micamente m&aacute;s sostenibles, ha de constituir una plataforma que permita al transporte p&uacute;blico interurbano de viajeros por carretera de competencia estatal, elevar su valoraci&oacute;n respecto a otros modos tradicionalmente m&aacute;s reconocidos y facilitar su <strong>integraci&oacute;n</strong> en una gran <strong>RED</strong>, bajo la marca &ldquo;<strong>bus.es Autobuses de Espa&ntilde;a</strong>&rdquo;.</p>
+<p><a href="/NR/rdonlyres/DBAF55F7-26B3-42B1-AA5E-21916372916F/106881/BOEA201116516.pdf" title="Enlace a archivo con extensi&oacute;n .pdf. Este enlace abre una ventana nueva" target="_blank">Resoluci&oacute;n de 10 de octubre de 2011</a>, de la Direcci&oacute;n General de Transporte Terrestre, por la que se establece la imagen distintiva de los autobuses adscritos a la red de servicios p&uacute;blicos de transporte regular permanente y de uso general de viajeros por carretera de titularidad de la Administraci&oacute;n General del Estado.</p>
+<p><a href="/NR/rdonlyres/A2146061-695F-43AD-BF01-E2622A120CA9/106882/MANUALBUSES_.pdf" title="Enlace a archivo con extensi&oacute;n .pdf. Este enlace abre una ventana nueva" target="_blank">Instrucciones oportunas acerca de las caracter&iacute;sticas y utilizaci&oacute;n de los distintivos y s&iacute;mbolos de imagen corporativa de los autobuses</a> adscritos a la red de servicios p&uacute;blicos de transporte regular permanente y de uso general de viajeros por carretera de titularidad de la Administraci&oacute;n General del Estado</p>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+                         </div>
+                         
+                         <div id="menuspartederecha" class="partederecha">
+                               
+    
+    
+
+                               
+                                    <div id="RightMenu010" class="bloquedestacado bd03 informacion"><h2>Información</h2><div  class="bd_contenido"><ul><li><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/_INFORMACION/ORGANIZACION_Y_FUNCIONES/" title="" target="_self">Organización y funciones</a></li><li><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/_INFORMACION/NORMATIVA/" title="" target="_self">Normativa</a></li><li><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/_INFORMACION/INFORMACION_ESTADISTICA/" title="" target="_self">Información estadística</a></li><li><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/_INFORMACION/BOLETIN_INFORMATIVO/" title="" target="_self">Boletines informativos</a></li><li><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/contrataciones/CONTRATACIONES/DG_TRANSPORTE_POR_CARRETERA/" title="" target="_self">Contratación</a></li><li><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/_INFORMACION/SUBVENCIONES/" title="" target="_self">Ayudas y subvenciones</a></li><li><a href="/MFOM/LANG_CASTELLANO/INFORMACION_MFOM/ASISTENCIA_CIUDADANOS/TRANSPORTE_TERRESTRE/" title="" target="_self">Datos de contacto</a></li></ul></div></div>
+
+
+							 
+							 
+
+
+
+<div class="bloquedestacado bd01 sedeElectronica" id="RightMenu040">
+  <h2>Sede Electronica</h2>
+  <div class="bd_contenido">
+    <ul>
+      <li>
+        <a href="https://sede.fomento.gob.es/SEDE_ELECTRONICA/LANG_CASTELLANO/OFICINAS_SECTORIALES/TTE_CTRA/CONCESIONES_PERMANENTES/" target="_self" title="" class="sedeElectronica">Contratos de gestión de servicios públicos de transporte regular de viajeros por carretera</a>
+        <p class="avisoAccesoSede">
+          <strong class="bloque">Acerca del Certificado de Sede </strong>La Sede Electrónica del Ministerio de Fomento se identifica mediante un Certificado de Sede de la Autoridad de Certificación de la Administración Pública Española (AC APE), de reciente creación, por lo que es posible que su navegador, si es la primera vez que accede, le indique que no puede verificar la conexión.<span class="bloque">
+          Si sigue las instrucciones del navegador para confirmar la excepción de seguridad no volverá a aparecer ningún aviso en futuros accesos. Si, de forma alternativa, usted instala el certificado raiz de AC APE en el navegador (opción recomendada), esto le permitirá acceder en un futuro a cualquier Sede Electrónica de la Administración General del Estado sin nuevos avisos de seguridad.
+        </span></p>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+<div class="bloquedestacado bd01 herramientas" id="RightMenu100">
+  <h2>Protección de datos</h2>
+  <div class="bd_contenido">
+    <ul>
+      <li>
+        <a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/_LOPD/ptca_privacidad.htm" target="_self" title="">Política de privacidad de la Dirección General de Transporte Terrestre</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class="bloquedestacado bd02 documentosPagina" id="RightMenu120">
+  <h2>Documentos de la página</h2>
+  <div class="bd_contenido">
+    <div class="divrecursos">
+      <ul class="doc">
+        <li class="documentoPdf">
+          <a href="/NR/rdonlyres/DBAF55F7-26B3-42B1-AA5E-21916372916F/106881/BOEA201116516.pdf" target="_blank" title="Resolución de 10 de octubre de 2011, de la Dirección General de Transporte Terrestre, por la que se establece la imagen distintiva de los autobuses adscritos a la red de servicios públicos de transporte regular permanente y de uso general de viajeros por carretera de titularidad de la Administración General del Estado. Enlace a archivo con extensión pdf. Este enlace abre una ventana nueva.">Resolución de 10 de octubre de 2011, de la Dirección General de Transporte Terrestre, por la que se establece la imagen distintiva de los autobuses adscritos a la red de servicios públicos de transporte regular permanente y de uso general de viajeros por carretera de titularidad de la Administración General del Estado</a>
+          <p class="docpeso">
+            (184 Kb. pdf)
+          </p>
+        </li>
+        <li class="documentoPdf">
+          <a href="/NR/rdonlyres/A2146061-695F-43AD-BF01-E2622A120CA9/106882/MANUALBUSES_.pdf" target="_blank" title="Instrucciones oportunas acerca de las características y utilización de los distintivos y símbolos de imagen corporativa de los autobuses adscritos a la red de servicios públicos de transporte regular permanente y de uso general de viajeros por carretera de titularidad de la Administración General del Estado. Enlace a archivo con extensión pdf. Este enlace abre una ventana nueva.">Instrucciones oportunas acerca de las características y utilización de los distintivos y símbolos de imagen corporativa de los autobuses adscritos a la red de servicios públicos de transporte regular permanente y de uso general de viajeros por carretera de titularidad de la Administración General del Estado</a>
+          <p class="docpeso">
+            (1450 Kb. pdf)
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="bloquedestacado bd02 enlacesPagina" id="RightMenu130"><h2>Enlaces de la página</h2><div class="bd_contenido"><div class="divrecursos"><ul class="doc"><li class="documentoGenerico"><p><a href="http://www.bus.es/" target="_blank" title="bus.es. Este enlace abre una ventana nueva">http://www.bus.es/</a></p><p class="docUrl">(www.bus.es)</p></li></ul></div></div></div>
+
+
+
+                               
+                               
+                               
+                         </div>
+                                                 
+                    </div>
+                    
+
+
+                    
+                    
+                    
+
+<div id="menuIzquierdo" class="menuIzquierdo">
+    	
+	<h2><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/">Transporte terrestre</a></h2><ul class="menu" id="MenuDG1_menuDireccionesGenerales"><li class="sinsubmenu primeritem"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/COMITE_NACIONAL_TRANSPORTE/" title=""><span>Comité Nacional del Transporte</span></a></li><li class="sinsubmenu"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/ITS/" title=""><span>Sistemas inteligentes de transporte</span></a></li><li class="sinsubmenu seleccionado"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/Apli1/" title=""><span>Líneas regulares de transporte de viajeros</span></a></li><li class="sinsubmenu"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/MMPP/" title=""><span>Mercancías peligrosas y perecederas</span></a></li><li class=""><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/OBSERVATORIOS/" title=""><span>Observatorios</span></a></li><li class=""><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/IGT/" title=""><span>Inspección y Seguridad en el transporte</span></a></li><li class=""><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/SERVICIOS_TRANSPORTISTA/" title=""><span>Servicios al transportista</span></a></li><li class="sinsubmenu"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/TRANSPORTE_INTERMODAL/" title=""><span>Transporte intermodal</span></a></li><li class=""><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/MERCANCIAS/" title=""><span>Transporte internacional de mercancías</span></a></li><li class=""><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/VIAJEROS/" title=""><span>Transporte internacional de viajeros</span></a></li><li class=""><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/Documentos/" title=""><span>Contenido de interés</span></a></li><li class="sinsubmenu"><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/DRCHPASJ/" title=""><span>Derechos de los pasajeros</span></a></li></ul>			
+	
+	
+</div>
+                    
+                    
+                        
+                    
+                </div>
+            
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALF06+rBwLv2OXuCwLt4e+DAQL+nNeYBOyf2npGLlpSwzdxjVmVPZxm/wAX" />
+
+<!-- Generated by Microsoft.ContentManagement.WebControls.Console to reset form.action -->
+
+
+
+</form>
+        </div>
+        
+<div id="Pie1_TablaPie">
+    <div>
+        <a name="Pie"></a>
+        <div id="mapa_sitio" class="menuspie">
+            <ul>
+                <li id="menupieIG"><a name="menupieIG"></a><h4>El Ministerio</h4><ul><li><span><a href="/MFOM/LANG_CASTELLANO/INFORMACION_MFOM/ORGANIZACION_Y_FUNCIONES/">Organización y funciones</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/INFORMACION_MFOM/Curriculum/">Biografías de altos cargos</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/INFORMACION_MFOM/ASISTENCIA_CIUDADANOS/">Contacte con Fomento</a></span></li></ul></li>
+                <li id="menupieOP"><a name="menupieOP"></a><h4>Sala de prensa</h4><ul><li><span><a href="/MFOMBPRENSA/listado.aspx?t=n">Noticias</a></span></li><li><span><a href="/MFOMBPRENSA/listado.aspx?t=i">Galería de imágenes</a></span></li><li><span><a href="/MFOMBPRENSA/listado.aspx?t=v">Galería de recursos audiovisuales</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/GABINETE_COMUNICACION/CONTACTOS/">Contactos para medios</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/GABINETE_COMUNICACION/CONVOCATORIAS/">Convocatorias</a></span></li></ul></li>
+                <li id="menupieAC"><a name="menupieAC"></a><h4>�?reas de actividad</h4><ul><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/CARRETERAS/">Carreteras</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/FERROCARRILES/">Ferrocarriles</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/AVIACION_CIVIL/">Aviación civil</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/MARINA_MERCANTE/">Marina mercante</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/TRANSPORTE_TERRESTRE/">Transporte terrestre</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/ARQ_VIVIENDA/">Arquitectura, vivienda y suelo</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/INSTITUTO_GEOGRAFICO/">Instituto Geográfico Nacional</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/DIRECCIONES_GENERALES/SERVICIOS_POSTALES/">Servicios postales</a></span></li></ul></li>
+                <li id="menupieEP"><a name="menupieEP"></a><h4>Planes estratégicos</h4><ul><li><span><a href="/MFOM/LANG_CASTELLANO/PLANES/PEF/">Plan estratégico de Fomento</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/PLANES/PITVI/">PITVI 2012 - 2024</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/PLANES/ESTRATEGIA_LOGISTICA/">Estrategia Logística de España</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/PLANES/PESUB_MFOM_20142017/">Plan Estratégico de Subvenciones 2014-2017</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/PLANES/ELPRESEEESP/">Estrategia a largo plazo para la rehabilitación energética en el sector de la edificación en España</a></span></li></ul></li>
+                <li id="menupieDG"><a name="menupieDG"></a><h4>Información para el ciudadano</h4><ul><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/contrataciones/">Contratación</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/PARTICIPACION_PUBLICA/">Participación pública</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/EMPLEO_PUBLICO/">Empleo público</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/EXAMENES/">Convocatorias de exámenes</a></span></li><li><span><a href="https://www.fomento.gob.es/MFOM.CP.Web">Centro virtual de publicaciones</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/DOCUMENTACION/">Bibliotecas de acceso público</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/INFORMACION_ESTADISTICA/">Información estadística</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/OBSERVATORIOS/">Observatorios</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/RECONOCIMIENTO_TITULOS/">Reconocimiento de títulos de la Unión Europea</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/FUNDACIONES/">Fundaciones</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/OAV/">Oficina de asistencia a víctimas de accidentes aéreos</a></span></li><li><span><a href="/MFOM/LANG_CASTELLANO/ATENCION_CIUDADANO/GENERO/">Promoción de la igualdad de género</a></span></li></ul></li>
+                <li id="menupieOC"><a name="menupieOC"></a><h4>Órganos Colegiados</h4><ul><li class="oc1"><a href="/MFOM/LANG_CASTELLANO/ORGANOS_COLEGIADOS/CIAIAC/"><span>CIAIAC</span><span class="descripcion">Investigación de accidentes e incidentes de aviación civil</span></a></li><li class="oc2"><a href="/MFOM/LANG_CASTELLANO/ORGANOS_COLEGIADOS/CEANITA/"><span>CEANITA</span><span class="descripcion">Incidentes de tránsito aéreo</span></a></li><li class="oc3"><a href="/MFOM/LANG_CASTELLANO/ORGANOS_COLEGIADOS/CIAF/"><span>CIAF</span><span class="descripcion">Investigación de accidentes ferroviarios</span></a></li><li class="oc4"><a href="/MFOM/LANG_CASTELLANO/ORGANOS_COLEGIADOS/CIAIM/"><span>CIAIM</span><span class="descripcion">Investigación de accidentes e incidentes marítimos</span></a></li><li class="oc5"><a href="/MFOM/LANG_CASTELLANO/ORGANOS_COLEGIADOS/CCTMP/"><span>CCTMP</span><span class="descripcion">Transporte de mercancías peligrosas</span></a></li><li class="oc6"><a href="/MFOM/LANG_CASTELLANO/ORGANOS_COLEGIADOS/MASORGANOS/"><span>Más órganos colegiados</span></a></li></ul></li>
+            </ul>
+        </div>        
+        
+        
+        <div class="textoPiePaginaAmpliado">
+  <ul class="lineaTextoPie1">
+    <li>
+      <a href="http://www.fomento.gob.es/MFOM.Correo.Web" target="_self" title="">Contacto</a> |</li>
+    <li>
+      <a href="http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/FOOTER/SERVICIOS/default.htm" target="_self" title="">Cartas de servicios</a> |</li>
+    <li>
+      <a href="http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/FOOTER/ACCESIBILIDAD/default.htm" target="_self" title="">Accesibilidad</a> |</li>
+    <li>
+      <a href="http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/FOOTER/USABILIDAD/default.htm" target="_self" title="">Usabilidad</a> |</li>
+    <li>
+      <a href="http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/FOOTER/LEGAL/default.htm" target="_self" title="">Aviso legal</a> |</li>
+    <li>
+      <a href="http://www.fomento.gob.es/MFOM/LANG_CASTELLANO/RSS.htm" target="_self" title="">RSS</a>
+    </li>
+  </ul>
+  <div class="lineaTextoPie2">© Ministerio de Fomento</div>
+</div>
+        <script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            //STAGINGFILTER
+  _userv=2;
+  //_uacct='UA-20341497-1';
+  _uacct='UA-20341497-1';
+  urchinTracker();
+        </script>
+
+    </div>
+    <!--Pie1_TablaPie-->
+</div>
+
+    </div>
+</body>
+</html>

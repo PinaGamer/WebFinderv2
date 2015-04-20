@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Status-Code" content="302">
+<meta http-equiv="Reason-Phrase" content="Found">
+<meta http-equiv="Location" content="http://play.org/posits">
+</head>
+<body>
+
+<script type="text/javascript"><!--
+location.replace("http://play.org/posits");
+// --></script>
+<noscript>
+You might find <a href="http://play.org/posits">play.org/posits</a> interesting.
+</noscript>
+
+</body>
+</html>

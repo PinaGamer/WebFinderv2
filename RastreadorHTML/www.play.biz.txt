@@ -1,0 +1,47 @@
+<!--
+	top.location="http://www.play.biz/?fp=RQ19W1miooiztZF87r3H6LjXH1lGZm3jsjtbBMf%2FEC6Ypi2xnF%2FJ5tbx2KXUqyJWcD7J%2Fahz0viOc6%2BiEgX7Eg%3D%3D&prvtof=rbLi44ap4EJL34mYWruutRuDL4jdZEvcl03MBzWLBf4%3D&poru=Rhd5G9BrnXUS%2BtGJRhz2ySYO8XAhT1scAZQzAVA2e4m8lxyfbcIbUtNDNYsEPdsA&cifr=1&";
+	/*
+-->
+<html><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+				  <meta name="viewport" content="width=device-width"><script type="text/javascript">
+	<!--
+	dimensionUpdated = 0;
+	function applyFrameKiller()
+	{
+		if(window.top != self)
+		{
+			cHeight = 0;
+			if( typeof( window.innerHeight ) != 'undefined' ) {
+			//Non-IE
+			cHeight = window.innerHeight;
+			dimensionUpdated = 1;
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight )  ) {
+			//IE 6+ in 'standards compliant mode'
+			cHeight = document.documentElement.clientHeight;
+			dimensionUpdated = 1;
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+			//IE 4 compatible
+			cHeight = document.body.clientHeight;
+			dimensionUpdated = 1;
+			}
+			if( cHeight <= 250 && dimensionUpdated == 1)
+			{
+				window.top.location = "http://www.play.biz/?fp=RQ19W1miooiztZF87r3H6LjXH1lGZm3jsjtbBMf%2FEC6Ypi2xnF%2FJ5tbx2KXUqyJWcD7J%2Fahz0viOc6%2BiEgX7Eg%3D%3D&prvtof=3izSLRnhK7o3QNeoJ2G3hEeD7BFwTKkHync9Aa%2F5fs8%3D&poru=%2FMG0IhQBPzB6lU43Sm6tsXAw9Sl9nhcQnuyv8ADz1zAIavHzaps3uChBu1BqaYFn&cifr=1&";
+			}
+		}
+	}
+
+	applyFrameKiller();
+	// -->
+</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://www.play.biz/?fp=RQ19W1miooiztZF87r3H6LjXH1lGZm3jsjtbBMf%2FEC6Ypi2xnF%2FJ5tbx2KXUqyJWcD7J%2Fahz0viOc6%2BiEgX7Eg%3D%3D&prvtof=UWjGJbC3NPBpU45bo1u49hLzobiRuI05oDXR7fNlpaU%3D&poru=PqAjfdrmPr4ZIJM2JZeIK0rc8liVivSr5oP7J9w6QISDB9jv%2F06aIqqP%2FdCgIG%2FO&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://www.play.biz/?fp=RQ19W1miooiztZF87r3H6LjXH1lGZm3jsjtbBMf%2FEC6Ypi2xnF%2FJ5tbx2KXUqyJWcD7J%2Fahz0viOc6%2BiEgX7Eg%3D%3D&prvtof=xTw%2BHMwdKuL5%2Bq354Hk69qESwlIyPwi06xbBstdUHXE%3D&poru=wBBcPzAvawMWiddaUpaCqSd1dlBxBzQZhb7z6iclCX0Lx925lUzFi%2FpWJYvVUzUZ&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->

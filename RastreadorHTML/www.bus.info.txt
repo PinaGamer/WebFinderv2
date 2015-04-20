@@ -1,0 +1,276 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+ <!-- 
+ Erstellt mit HfH 3.01 Heimseitenbaukasten fuer Hauptschueler ohne Englischkenntnisse.
+ -->
+
+<HTML>
+<HEAD>
+<TITLE>MINIBUS.info MERKAVIM Niederflur Minibus</TITLE>
+ <meta name="google-site-verification" content="nm-0-BiW3RnirKhsgaj0sb0e1ZtqOtKXr7y2BqNGpHw" />
+ <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=iso-8859-1">
+ <META HTTP-EQUIV="content-language" CONTENT="de">
+ <META NAME="language" CONTENT="de">
+ <META NAME="generator" CONTENT="HfH 3.01">
+ <META NAME="robots" CONTENT="index, follow">
+ <META NAME="revisit-after" CONTENT="21 days">
+ <META NAME="description" CONTENT="Wir sind Generalimporteur für den Merkavim Niederflur Minibus. Der Minibus M20E basierend auf dem aktuellen Fiat Ducato hat 15 Sitz- und 7 Stehplaetze und ist ab sofort lieferbar. Merkavim ist international bekannt fuer die kompromisslose Qualitaet und Standfestigkeit seiner Busse, die ausnahmlos in rostfreiem Edelstahl hergestellt werden.">
+ <META NAME="author" CONTENT="AMEX Nutzfahrzeuge GmbH">
+ <META NAME="keywords" CONTENT="Minibus, Minibusse, Niederflur, Niederflurbus, Behindertenbus, behindertengerecht, Linienbus, Stadtbus, Merkavim">
+<link rel="shortcut icon" href="http://www.minibus.info/favicon.ico">
+</HEAD>
+<FRAMESET ROWS="90,*,50" FRAMEBORDER=NO FRAMESPACING=0 BORDER=0>
+	<FRAME SRC="top.html" NAME="top" MARGINWIDTH=10 MARGINHEIGHT=10 SCROLLING=NO NORESIZE>
+	<FRAMESET COLS="180,*" FRAMEBORDER=NO FRAMESPACING=0 BORDER=0>
+		<FRAME SRC="navigation.html" NAME="navigation" MARGINWIDTH=10 MARGINHEIGHT=10 SCROLLING=NO NORESIZE>
+		<FRAME SRC="home.html" NAME="main" MARGINWIDTH=10 MARGINHEIGHT=10 SCROLLING=AUTO NORESIZE>
+	</FRAMESET>
+	<FRAME SRC="footer.html" NAME="footer" MARGINWIDTH=10 MARGINHEIGHT=10 SCROLLING=NO NORESIZE>
+<NOFRAMES>
+<BODY>
+<TABLE BORDER=0 WIDTH=1000 ALIGN=CENTER CELLSPACING=0 bgcolor="C5CEDB">
+  	<TR>
+   		<TD>
+			<table border="0" cellpadding="5" cellspacing="0" width="1100" ALIGN=CENTER bgcolor="C5CEDB">
+			<tbody>
+				<tr>
+					<td width="30%"><a href="http://www.amexauto.de/" TARGET="_blank"><img src="dateien/logo_reg_2.gif" alt="AMEX-Nutzfahrzeuge" border="0" height="62" width="250"></a>
+					</td>
+					<td width="20%"><font color="#000000" face="arial,helvetica" size="1"><b>AMEX Nutzfahrzeuge GmbH<br>
+				Hanauer Landstr. 491<br>60386 Frankfurt am Main<br>Germany<br></b></font>
+					</td>
+					<td width="20%"><font color="#000000" face="arial,helvetica" size="1"><b>Telefon: 069 - 416001<br>
+				Telefax: 069 - 422042<br>Mobil: 0171 - 8549444<br><a href="mailto:minibus@amexauto.de?subject=Mail%20von%20der%20Minibus-Homepage">minibus@amexauto.de</a><br></b></font>
+					</td>
+					<td width="30%"><IMG SRC="dateien/minibus_ani.gif" ALT="AMEX Nutzfahrzeuge GmbH ist Generalimporteur für Merkavim Niederflur Minibusse. Der neu entwickelte Minibus M20E für 22 Fahrg&auml;ste ist durch seine Niederflurbauweise besonders als Linienbus, Stadtbus oder für Behindertenbef&ouml;rderung geeignet." BORDER=0 ALIGN=MIDDLE WIDTH=330 HEIGHT=60>
+					</td>
+				</tr>
+			</tbody>
+			</table>
+		</TD>
+  	</TR>
+  	<TR>
+   		<TD>
+			<TABLE BORDER=0 WIDTH=100% ALIGN=CENTER CELLPADDING=10 CELLSPACING=0 bgcolor="C5CEDB">
+				<TR>
+					<TD HEIGHT=20 VALIGN=TOP><FONT SIZE=3 FACE="Arial, Helvetica" COLOR="#000000"><b>Der Niederflur Minibus M20E wird von Merkavim hergestellt.</></FONT>
+					</TD>
+				</TR>
+  				<TR>
+   					<TD><FONT SIZE=3 FACE="Arial, Helvetica" COLOR="#000000"><div style="text-align: justify;">
+<P>Merkavim ist der bedeutenste israelische Omnibushersteller. Die Firma blickt auf mehr als 50 Jahre Erfahrung in der Omnibusfertigung zurück. Die Eigner von Merkavim sind Mayer's Cars and Trucks Ltd., u.a. als &ouml;rtlicher Volvo Importeur sowie Volvo Bus Corp. Schweden als zweitgr&ouml;sster Omnibushersteller der Welt.
+<P>In einem modernen Produktionsbetrieb in Caesarea nord&ouml;stlich von Tel Aviv werden j&auml;hrlich rund 500 Busse aller Grössen hergestellt. Das Unternehmen fertigt ein breites Spektrum an Linien-, Reise- und Spezialbussen, wie z.B. gepanzerte Reisebusse oder Gefängnisbusse. Jedoch nur der Niederflur Minibus wird auch in Westeuropa verkauft. Merkavim ist zertifiziert nach ISO 9001. Alle Busse werden ausnahmslos in rostfreiem Edelstahl ausgef&uuml;hrt und gernerell nach europ&auml;ischen Standards gefertigt. Das Unternehmen ist international bekannt für die kompromisslose Qualit&auml;t und Standfestigkeit seiner Busse. 
+<P>Von der Minibus Baureihe M20 auf der Basis des Fiat Ducato wurden bisher rund 100 Niederflur Minibusse gebaut, die unter z.T. h&auml;rtesten Bedingungen erfolgreich im Einsatz sind.</div>     
+</FONT>				</TD>
+				</TR>
+			</TABLE>
+		</TD>
+  	</TR>
+  	<TR>
+   		<TD bgcolor="C5CEDB">
+			<TABLE BORDER="0" WIDTH="700" ALIGN=CENTER CELLPADDING=5 CELLSPACING=0 HEIGHT="250">
+       			<TR> 
+					<TD COLSPAN="2" HEIGHT="250">
+	<TABLE BORDER="0" WIDTH="700" ALIGN=CENTER CELLPADDING=5 CELLSPACING=0 HEIGHT="450">
+		<TR>
+   			<TD COLSPAN="2" HEIGHT="200">
+				<TABLE BORDER=0 ALIGN=CENTER WIDTH=680 CELLPADDING="10" CELLSPACING="0" BORDERCOLOR="#000000">
+  					<TR>
+   						<TD WIDTH="670" HEIGHT="100" COLSPAN=2><FONT SIZE=3 FACE="Arial, Helvetica" COLOR="#666666"><b>Neuerungen ab Modelljahr 2011</b><br><UL TYPE=B>
+						<LI>Lieferung mit Dieselpartikelfilter nach Abgasnorm EEV (enhanced enviroment vehicle) besser als Euro V</LI>
+
+						<LI>Serienausstattung jetzt mit Komfortfahrersitz, hydraulisch gefedert, Kopfst&uuml;tze gepolstert</LI>
+						<LI>Wahlweise mit automatisiertem Schaltgetriebe Comfort Matic lieferbar</LI></UL>
+						</TD> 					
+  					</TR>
+ 				</TABLE>
+			</TD>
+  		</TR>
+       	<TR> 
+			<TD COLSPAN="2" HEIGHT="300">
+
+ 				<TABLE BORDER=3 ALIGN=CENTER WIDTH=680 CELLPADDING="10" CELLSPACING="0" BORDERCOLOR="#000000">
+  					<TR>
+   						<TD HEIGHT="30" COLSPAN="2" bgcolor="C5CEDB"><B><FONT SIZE=3 FACE="Arial, Helvetica" COLOR="#000000">Preisliste g&uuml;ltig ab 27.08.2010</FONT></B>
+						</TD>
+  					</TR>
+  					<TR>
+   						<TD WIDTH="480" HEIGHT="100"><FONT SIZE=3 FACE="Arial, Helvetica" COLOR="#000000"><b>MERKAVIM Niederflur Minibus M20E Schaltgetriebe</b><br>Getriebe mechanisch 6-Gang<br>
+
+15 Sitzpl&auml;tze, 7 Stehpl&auml;tze, Luftfederung, Vollklimatisierung, Doppelt&uuml;r 1350mm breit, Sprechanlage, Digitale Routenanzeige vorn, rechts und hinten, Linienbestuhlung und Rollstuhlrampe</FONT>
+						</TD>
+   						<TD WIDTH="180" HEIGHT="100" ALIGN=RIGHT><B><FONT SIZE=5 FACE="Arial, Helvetica" COLOR="#000000">EUR 103.900,00</FONT></B>
+						</TD>
+  					</TR>
+  					<TR>
+   						<TD WIDTH="480" HEIGHT="100"><FONT SIZE=3 FACE="Arial, Helvetica" COLOR="#000000"><b>MERKAVIM Niederflur Minibus M20E Automatik</b><br>Automatisiertes Schaltgetriebe Comfort Matic<br>
+
+15 Sitzpl&auml;tze, 7 Stehpl&auml;tze, Luftfederung, Vollklimatisierung, Doppelt&uuml;r 1350mm breit, Sprechanlage, Digitale Routenanzeige vorn, rechts und hinten, Linienbestuhlung und Rollstuhlrampe</FONT>
+						</TD>
+   						<TD WIDTH="180" HEIGHT="100" ALIGN=RIGHT><B><FONT SIZE=5 FACE="Arial, Helvetica" COLOR="#000000">EUR 105.400,00</FONT></B>
+						</TD>
+  					</TR>
+  					<TR>
+   						<TD HEIGHT="30" COLSPAN="2" bgcolor="C5CEDB"><FONT SIZE=2 FACE="Arial, Helvetica" COLOR="#000000" bgcolor="C5CEDB"><b>Verkauf nur an Gewerbetreibende - Preis ab Auslieferungslager Frankfurt am Main zuz&uuml;glich MwSt.</b></FONT>
+
+						</TD>
+  					</TR>
+ 				</TABLE>
+			</TD>
+		</TR>
+	</TABLE>					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+  	</TR>
+  	<TR>
+   		<TD bgcolor="C5CEDB">
+			<TABLE BORDER=0 WIDTH=950 ALIGN=CENTER bgcolor="C5CEDB" CELLSPACING=0>
+  				<TR>
+   					<TD WIDTH=425><UL>
+<FONT SIZE=2 FACE="Arial, Helvetica" COLOR="#000000"><b>Serienausstattung des Minibus M20E</b><br>&nbsp;<br>
+<LI>Rahmen rostfreier Edelstahl
+<LI>Luftfederung Hinterachse
+<LI>Getriebe mechanisch 6-Gang
+<LI>ABS
+<LI>Digitales EG-Kontrollger&auml;t
+<LI>Radio mit CD
+<LI>Mikrophon mit Verst&auml;rker
+<LI>Fahrerklimaanlage
+<LI>Rollo f&uuml;r Seitenfenster links
+<LI>Matrixanzeige vorn, rechts und hinten
+<LI>Automatische Doppeltür 1.350 mm breit
+<LI>Panoramaverglasung mit Ausstellfenstern
+<LI>2 Klappsitze am Rollstuhlplatz
+<LI>Ausklappbare Rollstuhlrampe
+<LI>W&auml;rmetauscher Fahrgastraum
+<LI>Umluft Dachklimaanlage 10 kW
+<LI>Linienbestuhlung 15 + 7 + 1
+<LI>Sitzpolsterauswahl nach Kundenwunsch
+<LI>1-farbige Außenlackierung nach Kundenvorgabe
+<br>&nbsp;<br>&nbsp;<br>
+<b>Sonderausstattung des Minibus M20E</b><br>&nbsp;<br>
+<LI>Automatisches Getriebe
+<LI>Minderpreis Wegfall Dachklimaanlage
+<LI>Reisebestuhlung
+<LI>Individuelle Sitz-/ Rollstuhlplatzkonfiguration
+<LI>Lackierung Metallic
+<LI>Lackierung mehrfarbig abgesetzt</FONT>
+					</UL>
+					</TD>
+   					<TD WIDTH=425><UL>
+<FONT SIZE=2 FACE="Arial, Helvetica" COLOR="#000000"><b>Technische Daten des Minibus M20E</b><br>&nbsp;<br>
+<LI>Motorisierung<br>4 Zylinder Dieselmotor Fiat 160 Multijet Power<br>
+Hubraum 2999ccm, 116Kw / 157PS bei 3500 UpM<br>
+max. Drehmoment 400 nm bei 1700 UpM<br>
+Schadstoffklasse EURO 4<br>&nbsp;
+<LI>Kraftstofftank 80 Liter<br>&nbsp;				
+<LI>Masse aussen<br>
+L&auml;nge 7020mm<br>
+Breite 2080mm<br>
+H&ouml;he 2600mm<br>&nbsp;
+<LI>Masse innen<br>
+H&ouml;he i.L. 1950mm<br>&nbsp;
+<LI>T&uuml;rbreite i.L. 1350mm<br>&nbsp;
+<LI>Einstiegsh&ouml;he i.L. 250mm<br>&nbsp;
+<LI>Gewichte<br>
+Zul&auml;ssiges Gesamtgewicht 4800kg<br>
+Leergewicht 3100kg<br>&nbsp;
+<LI>Bordspannung 12 Volt<br>&nbsp;
+<LI>Fahrgastklimaanlage 10 kW<br>&nbsp;
+					</UL>
+					</TD>
+  				</TR>
+ 			</TABLE>
+		</TD>
+  	</TR>
+  	<TR>
+   		<TD bgcolor="C5CEDB"><A HREF="impressum.html" TARGET="_blank">Impressum</A>
+		</TD>
+  	</TR>
+  	<TR>
+  	    <TD bgcolor="C5CEDB">
+  	    <FONT FACE="Arial, Helvetica" COLOR="#000000">
+<table border="0" cellpadding="10" cellspacing="0" width="650">
+  <tbody>
+    <tr>
+      <td>&nbsp;
+      </td>
+      <td>&nbsp;						
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td class="txt"><span style="font-size: 18px; font-weight: bold;">Premiere: Israelischer Bushersteller startet in Deutschland</span><br><span style="font-size: 13px; font-weight: bold;">Frankfurter Importeur stellt Merkavim Minibus M20E vor</span><br><br>
+        <table style="float: right; width: 168px;" border="0" cellpadding="5" cellspacing="10">
+    	   <tbody>
+            <tr>
+              <td align="center">&nbsp;
+      		</td>
+    	     </tr>
+    	    </tbody>
+          </table>
+<br class="br1">
+<br>- Minibus f&uuml;r die Stadtlinie mit Aufbau aus Edelstahl
+<br>- 15 Sitzpl&auml;tze, 7 Stehpl&auml;tze
+<br>- Serienm&auml;ßig umfangreiche Linienausstattung
+<br>- Fiat 160 Multijet Power mit 400 Nm und 157 PS 
+<br>- Zul&auml;ssiges Gesamtgewicht 4800 Kilogramm
+<br>
+<P ALIGN="justify">Mit einem brandneuen Minibus f&uuml;r die Stadtlinie startet Merkavim, Israels gr&ouml;ßter Busaufbauer, erstmals in Deutschland und bringt frischen Wind in die Fuhrparks der deutschen &Ouml;PNV-Unternehmen. Der Merkavim M20E wird auf Basis der Fiat Ducato aufgebaut und bietet in der Ausf&uuml;hrung als Stadtlinienbus 13 Sitzpl&auml;tze, 2 Klappsitze und 7 Stehpl&auml;tze. Einsetzen l&auml;sst sich der Mini auf Stadtlinien oder als Shuttlebus. Variable Innenraumkonzepte machen auch die Verwendung als Großraumtaxi, Hotelbus oder im Behindertentransport denkbar. Das Fahrzeug l&auml;sst sich nach Kundenwunsch gestalten. Farben und Sitzpolster sind ebenso frei w&auml;hlbar wie eine Reisebestuhlung, individuelle Sitzkonfiguration oder die Lackierung. Da Merkavim generell nach europ&auml;ischen Standards produziert, waren zur Homologation durch den T&Uuml;V nur geringe &Auml;nderungen erforderlich. Der Minibus kann an sofort bestellt werden. Als Generalimporteur f&uuml;r den Merkavim M20E firmiert die Amex Nutzfahrzeuge GmbH in Frankfurt am Main.
+
+</P> 
+<P ALIGN="justify">Der Merkavim M20E l&auml;sst mit dem typischen Ducato-Gesicht seine Abstammung auf den ersten Blick erkennen. Allerdings steckt hinter dem handlichen Minibus weit mehr als nur ein Aufbau auf Ducato-Basis. Die Italiener liefern den Triebkopf mit Getriebe, Lenkung und Motor und gew&auml;hren daf&uuml;r auch die &uuml;blichen Herstellergarantien. Der Aufbau dagegen entsteht in aufw&auml;ndiger Handarbeit. Wie bei allen Bussen aus eigener Fertigung verwendet Merkavim beim M20E leichte und robuste
+Edelstahlplatten. Resultat ist ein klar gegliederter, eleganter Aufbau, der gut mit dem Frontgesicht harmoniert.</P>
+
+<P ALIGN="justify">Die Ausstattung f&uuml;r den Stadtbus wartet mit allen Zutaten auf, die einen großen Bus im Linienbetrieb ausmachen. Dazu geh&ouml;ren Fahrzielanzeige mit Dot-Matrix vorne und an der Seite und Nummernanzeige am Heck, Sprechanlage und eine Rollstuhlrampe. Kommt ein Rollstuhl an Bord, werden die beiden vorne links installierten
+Klappsitze nach oben geklappt, um den Rollstuhl in der vorgesehenen Position sicher fixieren zu k&ouml;nnen. Zur Linienausstattung geh&ouml;ren außerdem Haltestangen mit Rufkn&ouml;pfen, Griffschlaufen und diverse Notausstiege. F&uuml;r den Klimakomfort sorgt die Kombination einer auf dem Dach untergebrachten K&uuml;hleinheit mit einer zweistufigen Heizung, die sich zwischen der Viersitzgruppe im hinteren Teil befindet. Der Fahrerarbeitsplatz wirkt &uuml;bersichtlich, Bedienelemente f&uuml;r Innenraumheizung, Sprachanlage und T&uuml;r&ouml;ffner hat der Hersteller ergonomisch in das bestehende Arrangement integriert.
+
+</P>
+<P ALIGN="justify">Der Innenraum pr&auml;sentiert sich dank großer Panoramascheiben hell und freundlich. Der mit 1350 Millimetern vergleichsweise breite Einstieg mit der zweifl&uuml;gligen Außenschwingt&uuml;r erlaubt vor allem &auml;lteren Fahrg&auml;sten einen bequemen Zugang an der Haltestelle. Mit einer Einstiegsh&ouml;he von knapp 26 Zentimetern pr&auml;sentiert sich der Mini als echter Niederflurbus. Die Bestuhlung mit den robusten Sitzen ordnet jeweils zwei Sitze auf der linken und einen Sitz auf der rechten Seite
+zu einer Dreiergruppe. Im Heck sind die Sitze zu einer Sitzgruppe angeordnet. 
+</P>
+<P ALIGN="justify">Merkavim stattet den Mini mit der st&auml;rksten Motorvariante aus, die Fiat f&uuml;r den Ducato anbietet. Der 160 Multijet Power besitzt mit dem b&auml;renstarken Drehmoment von 400 Newtonmetern und einer Leistung von 157 PS die n&ouml;tigen Reserven, die der Bus f&uuml;r h&auml;ufigeres Anfahren zwischen den Haltestellen braucht. Geschaltet wird das Sechsganggetriebe von Hand, voraussichtlich im Herbst stellt Fiat f&uuml;r den Ducato eine Getriebautomatik zur Verf&uuml;gung, die dann auch im Mini-Stadtbus angeboten wird. Standard im M20E sind Luftfederung an der Hinterachse und eine sehr gute Ger&auml;uschd&auml;mmung des Innenraums. Der Merkavim bringt es auf eine L&auml;nge von 7020 Millimetern, die Breite betr&auml;gt 2080, die H&ouml;he 2600 Millimeter. Die H&ouml;he im Innenraum ist mit 1950 Millimeter ausreichend bemessen. Leer bringt der attraktive Minibus 3100 Kilogramm auf die Waage, bei voller Besetzung sind 4800 Kilogramm erlaubt.
+
+</P>
+<P ALIGN="justify">Die Name Merkavim stammt aus dem Hebr&auml;ischen und l&auml;sst sich mit dem Wort Triumphwagen &uuml;bersetzen. Erh&auml;ltlich ist der Minibus zum Preis von 99580 Euro. Rund ein Dutzend Einheiten sollen dieses Jahr noch ihre K&auml;ufer finden. 
+</P>
+<P ALIGN="justify">&Uuml;ber Merkavim: Merkavim ist der gr&ouml;ßte Busbauer in Israel und international bekannt f&uuml;r die kompromisslose Qualit&auml;t und Standfestigkeit seiner Busse. Das 1946 gegr&uuml;ndete Unternehmen ist auf die Entwicklung von Omnibussen spezialisiert. Die Eigner von Merkavim sind der &ouml;rtliche Volvo Importeur, sowie Volvo Bus Group. Aufgebaut werden die Fahrzeuge auf Fahrgestellen von Volvo, MAN, Mercedes-Benz, DAF und Fiat. S&auml;mtliche Busse werden in einer speziellen Edelstahl-Technik gefertigt. Die Busproduktion von Merkavim befindet sich nord&ouml;stlich von Tel Aviv im Industriepark von Caesarea, wo das Unternehmen seit 1998 eine nach europ&auml;ischen Standards topmoderne Busproduktion betreibt. Merkavim besch&auml;ftigt rund 500 Mitarbeiter, im Schnitt verlassen pro Jahr rund 450 Busse die Montagelinien.
+
+</P>
+<br>Hinweis an die Redaktion:
+<br>Zur Unterst&uuml;tzung der redaktionellen Arbeit h&auml;lt die Pressestelle
+der Amex Nutzfahrzeuge GmbH Fotomaterial &uuml;ber den Merkavim M20E
+bereit. Bilder, technische Daten zum Merkavim M20E und weitere
+Informationen &uuml;ber den Hersteller finden Sie im Internet unter der
+Adresse <a href="http://www.minibus.info/" target="_blank">http://www.minibus.info</a>
+<br>
+<br>Abdruck frei. Belegexemplare sind an folgende Adresse erw&uuml;nscht: 
+<br>
+<br>AMEX Nutzfahrzeuge GmbH
+<br>Hanauer Landstr. 491
+<br>60386 Frankfurt am Main (Ende)
+<br><br clear="all">
+     	     <table border="0" cellpadding="1" cellspacing="0" width="100%">
+            <tbody>
+	     <tr>
+              <td></a><br>Aussender: <a href="http://www.minibus.info/" target="_new">AMEX Nutzfahrzeuge GmbH</a><br>Ansprechpartner: Manfred Schmalisch<br>email: <a href="mailto:minibus%40amexauto.de">minibus@amexauto.de</a><br>Tel. 069-416001</div>
+           </td>
+          </tr>
+        </tbody>
+	</table>
+     </td>
+    </tr>
+  </tbody>
+</table>
+</FONT>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</NOFRAMES>	
+</FRAMESET>
+</HTML>

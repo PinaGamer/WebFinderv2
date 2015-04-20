@@ -1,0 +1,19 @@
+<head><title>
+	
+        Información sobre líneas regulares de transporte de viajeros - Líneas regulares de transporte de viajeros - Transporte terrestre - �?reas de actividad - Ministerio de Fomento
+    
+</title>
+    
+    
+    <meta name="viewport" content="width=1024,user-scalable=yes"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="TEMPLATE" content="PL_CONTENIDO_1" />
+<meta name="GUID" content="{153FF135-81EF-45C8-916F-651479172327}" />
+<meta name="ROBOTS" content="FOLLOW,INDEX" />
+<meta name="keywords" content="Informaci&#243;n sobre l&#237;neas regulares de transporte de viajeros,&#193;reas de actividad" />
+<meta name="description" content="Informaci&#243;n sobre l&#237;neas regulares de transporte de viajeros, &#193;reas de actividad, Ministerio de Fomento" /><meta name="creationdate" content="2011-09-28" /><meta name="lastmodificationdate" content="2014-08-25" /><meta name="SECCION" content="TRANSPORTES,FOMENTO" /><meta name="TIPO" content="OTRO" /><link href="/MFOMWeb/r/css/mfom.css" type="text/css" rel="stylesheet" />
+<link href="/MFOMWeb/r/fancybox/jquery.fancybox-1.3.4.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/MFOMWeb/r/js/jquery.js"></script>
+<script type="text/javascript" src="/MFOMWeb/r/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="/MFOMWeb/r/js/mfom.js"></script>
+</head>
